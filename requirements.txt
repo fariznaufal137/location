@@ -1,10 +1,12 @@
+
+pip==22.3.1
 pandas
 streamlit
-folium==0.12.1.post1
+folium
 requests
-pillow
+Pillow
 streamlit_folium
+os
+numpy
+Image
 streamlit_option_menu
-requests
-image
-pip==22.3.1
