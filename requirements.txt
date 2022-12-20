@@ -5,5 +5,4 @@ requests
 numpy
 streamlit_option_menu
 streamlit_folium
-pip==22.0.3
 image
