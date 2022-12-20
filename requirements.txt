@@ -7,3 +7,4 @@ streamlit_folium
 streamlit_option_menu
 requests
 image
+pip==22.3.1
