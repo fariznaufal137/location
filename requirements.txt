@@ -11,3 +11,5 @@ numpy
 Image
 streamlit_option_menu
 lmfit
+tensorflow
+skylearn
