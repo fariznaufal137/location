@@ -10,3 +10,4 @@ os
 numpy
 Image
 streamlit_option_menu
+lmfit
