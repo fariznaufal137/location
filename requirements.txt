@@ -1,0 +1,9 @@
+pandas
+streamlit
+folium
+requests
+Pillow
+streamlit_folium
+os
+numpy
+Image
